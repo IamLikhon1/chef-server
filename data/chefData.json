@@ -1,0 +1,82 @@
+[
+    {
+        "id":1,
+        "imgChef":"https://img.freepik.com/free-vector/coloured-chefdesign_1152-72.jpg?w=740&t=st=1682952294~exp=1682952894~hmac=b0212ba06f92218132fe34a7124a1c97a334b3af7fff519cacfb7b64c178911a",
+        "name":"LIKHON",
+        "experience":"2 years",
+        "recipes":{
+            "first":{"name":"Steak","ingredients":{"0":"Lemon","1":"Steak","2":"Garlic","3":"Salt","4":"Olive oil"}},
+            "second":{"name":"Pizza","ingredients":{"0":"Pepperoni","1":"Cheese","2":"Tomato Sauce","3":"Salt","4":"Olive oil"}},
+            "third":{"name":"Momo ","ingredients":{"0":"Chicken","1":"Onion","2":"Vinegar","3":"Garlic Paste","4":"Soy Sauce"}}
+        },
+        "likes":"401k",
+        "bio":"American chef and restaurateur, known for his fiery personality and Michelin-starred restaurants around the world."
+    },
+    {
+        "id":2,
+        "imgChef":"https://img.freepik.com/free-vector/coloured-chefdesign_1152-72.jpg?w=740&t=st=1682952294~exp=1682952894~hmac=b0212ba06f92218132fe34a7124a1c97a334b3af7fff519cacfb7b64c178911a",
+        "name":"LIKHON",
+        "experience":"2 years",
+        "recipes":{
+            "first":{"name":"Steak","ingredients":{"0":"Lemon","1":"Steak","2":"Garlic","3":"Salt","4":"Olive oil"}},
+            "second":{"name":"Pizza","ingredients":{"0":"Pepperoni","1":"Cheese","2":"Tomato Sauce","3":"Salt","4":"Olive oil"}},
+            "third":{"name":"Momo ","ingredients":{"0":"Chicken","1":"Onion","2":"Vinegar","3":"Garlic Paste","4":"Soy Sauce"}}
+        },
+        "likes":"300k",
+        "bio":"American chef, author, and television personality, who introduced French cuisine to the American public through her cookbook and TV show 'The French Chef'."
+    },
+    {
+        "id":3,
+        "imgChef":"https://img.freepik.com/free-vector/coloured-chefdesign_1152-72.jpg?w=740&t=st=1682952294~exp=1682952894~hmac=b0212ba06f92218132fe34a7124a1c97a334b3af7fff519cacfb7b64c178911a",
+        "name":"LIKHON",
+        "experience":"2 years",
+        "recipes":{
+            "first":{"name":"Steak","ingredients":{"0":"Lemon","1":"Steak","2":"Garlic","3":"Salt","4":"Olive oil"}},
+            "second":{"name":"Pizza","ingredients":{"0":"Pepperoni","1":"Cheese","2":"Tomato Sauce","3":"Salt","4":"Olive oil"}},
+            "third":{"name":"Momo ","ingredients":{"0":"Chicken","1":"Onion","2":"Vinegar","3":"Garlic Paste","4":"Soy Sauce"}}
+        },
+        "likes":"150k",
+        "bio":"British chef and TV personality, who advocates for healthy eating and has written numerous cookbooks and hosted several TV shows."
+    },
+    {
+        "id":4,
+        "imgChef":"https://img.freepik.com/free-vector/coloured-chefdesign_1152-72.jpg?w=740&t=st=1682952294~exp=1682952894~hmac=b0212ba06f92218132fe34a7124a1c97a334b3af7fff519cacfb7b64c178911a",
+        "name":"LIKHON",
+        "experience":"2 years",
+        "recipes":{
+            "first":{"name":"Steak","ingredients":{"0":"Lemon","1":"Steak","2":"Garlic","3":"Salt","4":"Olive oil"}},
+            "second":{"name":"Pizza","ingredients":{"0":"Pepperoni","1":"Cheese","2":"Tomato Sauce","3":"Salt","4":"Olive oil"}},
+            "third":{"name":"Momo ","ingredients":{"0":"Chicken","1":"Onion","2":"Vinegar","3":"Garlic Paste","4":"Soy Sauce"}}
+        },
+        "likes":"120k",
+        "bio":"Italian chef and owner of Osteria Francescana, a three-Michelin-starred restaurant in Modena, Italy."
+        
+    },
+    {
+        "id":5,
+        "imgChef":"https://img.freepik.com/free-vector/coloured-chefdesign_1152-72.jpg?w=740&t=st=1682952294~exp=1682952894~hmac=b0212ba06f92218132fe34a7124a1c97a334b3af7fff519cacfb7b64c178911a",
+        "name":"LIKHON",
+        "experience":"2 years",
+        "recipes":{
+            "first":{"name":"Steak","ingredients":{"0":"Lemon","1":"Steak","2":"Garlic","3":"Salt","4":"Olive oil"}},
+            "second":{"name":"Pizza","ingredients":{"0":"Pepperoni","1":"Cheese","2":"Tomato Sauce","3":"Salt","4":"Olive oil"}},
+            "third":{"name":"Momo ","ingredients":{"0":"Chicken","1":"Onion","2":"Vinegar","3":"Garlic Paste","4":"Soy Sauce"}}
+        },
+        "likes":"100k",
+        "bio":"American chef, author, and TV personality, known for his travel and food show 'Anthony Bourdain: Parts Unknown'."
+        
+    },
+    {
+        "id":6,
+        "imgChef":"https://img.freepik.com/free-vector/coloured-chefdesign_1152-72.jpg?w=740&t=st=1682952294~exp=1682952894~hmac=b0212ba06f92218132fe34a7124a1c97a334b3af7fff519cacfb7b64c178911a",
+        "name":"LIKHON",
+        "experience":"2 years",
+        "recipes":{
+            "first":{"name":"Steak","ingredients":{"0":"Lemon","1":"Steak","2":"Garlic","3":"Salt","4":"Olive oil"}},
+            "second":{"name":"Pizza","ingredients":{"0":"Pepperoni","1":"Cheese","2":"Tomato Sauce","3":"Salt","4":"Olive oil"}},
+            "third":{"name":"Momo ","ingredients":{"0":"Chicken","1":"Onion","2":"Vinegar","3":"Garlic Paste","4":"Soy Sauce"}}
+        },
+        "likes":"55k",
+        "bio":"American chef and owner of The French Laundry and Per Se, both three-Michelin-starred restaurants in the US."
+    }
+]
