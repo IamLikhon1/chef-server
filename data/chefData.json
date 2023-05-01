@@ -3,50 +3,50 @@
         "id":1,
         "imgChef":"https://img.freepik.com/free-vector/coloured-chefdesign_1152-72.jpg?w=740&t=st=1682952294~exp=1682952894~hmac=b0212ba06f92218132fe34a7124a1c97a334b3af7fff519cacfb7b64c178911a",
         "name":"LIKHON",
-        "experience":"2 years",
+        "experience":"10+ years",
         "recipes":{
-            "first":{"name":"Steak","ingredients":{"0":"Lemon","1":"Steak","2":"Garlic","3":"Salt","4":"Olive oil"}},
-            "second":{"name":"Pizza","ingredients":{"0":"Pepperoni","1":"Cheese","2":"Tomato Sauce","3":"Salt","4":"Olive oil"}},
-            "third":{"name":"Momo ","ingredients":{"0":"Chicken","1":"Onion","2":"Vinegar","3":"Garlic Paste","4":"Soy Sauce"}}
+            "first":{"name":"Steak","method":"Grilling","rating":4.2,"ingredients":{"0":"Lemon","1":"Steak","2":"Garlic","3":"Salt","4":"Olive oil"}},
+            "second":{"name":"Pizza","method":"Baking","rating":4.5,"ingredients":{"0":"Pepperoni","1":"Cheese","2":"Tomato Sauce","3":"Salt","4":"Olive oil"}},
+            "third":{"name":"Momo ","method":"Steaming","rating":4.1,"ingredients":{"0":"Chicken","1":"Onion","2":"Vinegar","3":"Garlic Paste","4":"Soy Sauce"}}
         },
         "likes":"401k",
         "bio":"American chef and restaurateur, known for his fiery personality and Michelin-starred restaurants around the world."
     },
     {
         "id":2,
-        "imgChef":"https://img.freepik.com/free-vector/coloured-chefdesign_1152-72.jpg?w=740&t=st=1682952294~exp=1682952894~hmac=b0212ba06f92218132fe34a7124a1c97a334b3af7fff519cacfb7b64c178911a",
-        "name":"LIKHON",
-        "experience":"2 years",
+        "imgChef":"https://img.freepik.com/free-vector/chef-character-design_1322-128.jpg?w=740&t=st=1682955764~exp=1682956364~hmac=45d3026f487bd245f5c92c10ad10971de0d07504ea7855f3844938898d7b662a",
+        "name":"Rahat",
+        "experience":"3+ years",
         "recipes":{
-            "first":{"name":"Steak","ingredients":{"0":"Lemon","1":"Steak","2":"Garlic","3":"Salt","4":"Olive oil"}},
-            "second":{"name":"Pizza","ingredients":{"0":"Pepperoni","1":"Cheese","2":"Tomato Sauce","3":"Salt","4":"Olive oil"}},
-            "third":{"name":"Momo ","ingredients":{"0":"Chicken","1":"Onion","2":"Vinegar","3":"Garlic Paste","4":"Soy Sauce"}}
+            "first":{"name":"Steak","method":"Grilling","rating":4.2,"ingredients":{"0":"Lemon","1":"Steak","2":"Garlic","3":"Salt","4":"Olive oil"}},
+            "second":{"name":"Pizza","method":"Baking","rating":4.2,"ingredients":{"0":"Pepperoni","1":"Cheese","2":"Tomato Sauce","3":"Salt","4":"Olive oil"}},
+            "third":{"name":"Momo ","method":"Steaming","rating":4.2,"ingredients":{"0":"Chicken","1":"Onion","2":"Vinegar","3":"Garlic Paste","4":"Soy Sauce"}}
         },
         "likes":"300k",
         "bio":"American chef, author, and television personality, who introduced French cuisine to the American public through her cookbook and TV show 'The French Chef'."
     },
     {
         "id":3,
-        "imgChef":"https://img.freepik.com/free-vector/coloured-chefdesign_1152-72.jpg?w=740&t=st=1682952294~exp=1682952894~hmac=b0212ba06f92218132fe34a7124a1c97a334b3af7fff519cacfb7b64c178911a",
-        "name":"LIKHON",
-        "experience":"2 years",
+        "imgChef":"https://img.freepik.com/free-vector/small-chef-illustration_23-2147517820.jpg?w=740&t=st=1682955808~exp=1682956408~hmac=d08ade1fa7e01baa841d0bfa642245a256c8820549b60aa0de5eef631dfdd817",
+        "name":"Faisal",
+        "experience":"4+ years",
         "recipes":{
-            "first":{"name":"Steak","ingredients":{"0":"Lemon","1":"Steak","2":"Garlic","3":"Salt","4":"Olive oil"}},
-            "second":{"name":"Pizza","ingredients":{"0":"Pepperoni","1":"Cheese","2":"Tomato Sauce","3":"Salt","4":"Olive oil"}},
-            "third":{"name":"Momo ","ingredients":{"0":"Chicken","1":"Onion","2":"Vinegar","3":"Garlic Paste","4":"Soy Sauce"}}
+            "first":{"name":"Steak","method":"Grilling","rating":4.0,"ingredients":{"0":"Lemon","1":"Steak","2":"Garlic","3":"Salt","4":"Olive oil"}},
+            "second":{"name":"Pizza","method":"Baking","rating":4.0,"ingredients":{"0":"Pepperoni","1":"Cheese","2":"Tomato Sauce","3":"Salt","4":"Olive oil"}},
+            "third":{"name":"Momo ","method":"Steaming","rating":4.0,"ingredients":{"0":"Chicken","1":"Onion","2":"Vinegar","3":"Garlic Paste","4":"Soy Sauce"}}
         },
         "likes":"150k",
         "bio":"British chef and TV personality, who advocates for healthy eating and has written numerous cookbooks and hosted several TV shows."
     },
     {
         "id":4,
-        "imgChef":"https://img.freepik.com/free-vector/coloured-chefdesign_1152-72.jpg?w=740&t=st=1682952294~exp=1682952894~hmac=b0212ba06f92218132fe34a7124a1c97a334b3af7fff519cacfb7b64c178911a",
-        "name":"LIKHON",
-        "experience":"2 years",
+        "imgChef":"https://img.freepik.com/free-vector/detailed-chef-logo-template_52683-64211.jpg?w=740&t=st=1682955850~exp=1682956450~hmac=0d2accf3c3cdc386919318ae43041e2c445f4136678ae767f3526bc25a70a13d",
+        "name":"Allve",
+        "experience":"1+ years",
         "recipes":{
-            "first":{"name":"Steak","ingredients":{"0":"Lemon","1":"Steak","2":"Garlic","3":"Salt","4":"Olive oil"}},
-            "second":{"name":"Pizza","ingredients":{"0":"Pepperoni","1":"Cheese","2":"Tomato Sauce","3":"Salt","4":"Olive oil"}},
-            "third":{"name":"Momo ","ingredients":{"0":"Chicken","1":"Onion","2":"Vinegar","3":"Garlic Paste","4":"Soy Sauce"}}
+            "first":{"name":"Steak","method":"Grilling","rating":4.5,"ingredients":{"0":"Lemon","1":"Steak","2":"Garlic","3":"Salt","4":"Olive oil"}},
+            "second":{"name":"Pizza","method":"Baking","rating":4.0,"ingredients":{"0":"Pepperoni","1":"Cheese","2":"Tomato Sauce","3":"Salt","4":"Olive oil"}},
+            "third":{"name":"Momo ","method":"Steaming","rating":4.5,"ingredients":{"0":"Chicken","1":"Onion","2":"Vinegar","3":"Garlic Paste","4":"Soy Sauce"}}
         },
         "likes":"120k",
         "bio":"Italian chef and owner of Osteria Francescana, a three-Michelin-starred restaurant in Modena, Italy."
@@ -54,13 +54,13 @@
     },
     {
         "id":5,
-        "imgChef":"https://img.freepik.com/free-vector/coloured-chefdesign_1152-72.jpg?w=740&t=st=1682952294~exp=1682952894~hmac=b0212ba06f92218132fe34a7124a1c97a334b3af7fff519cacfb7b64c178911a",
-        "name":"LIKHON",
-        "experience":"2 years",
+        "imgChef":"https://img.freepik.com/free-vector/flat-background-with-silhouettes-chef_23-2147629981.jpg?w=740&t=st=1682955919~exp=1682956519~hmac=55baae46eb8ad48e7d08b3c084002d482ca3d5a8f0fa892ffc5c0793630d06ab",
+        "name":"Shakil",
+        "experience":"2+ years",
         "recipes":{
-            "first":{"name":"Steak","ingredients":{"0":"Lemon","1":"Steak","2":"Garlic","3":"Salt","4":"Olive oil"}},
-            "second":{"name":"Pizza","ingredients":{"0":"Pepperoni","1":"Cheese","2":"Tomato Sauce","3":"Salt","4":"Olive oil"}},
-            "third":{"name":"Momo ","ingredients":{"0":"Chicken","1":"Onion","2":"Vinegar","3":"Garlic Paste","4":"Soy Sauce"}}
+            "first":{"name":"Steak","method":"Grilling","rating":3.4,"ingredients":{"0":"Lemon","1":"Steak","2":"Garlic","3":"Salt","4":"Olive oil"}},
+            "second":{"name":"Pizza","method":"Baking","rating":3.5,"ingredients":{"0":"Pepperoni","1":"Cheese","2":"Tomato Sauce","3":"Salt","4":"Olive oil"}},
+            "third":{"name":"Momo ","method":"Steaming","rating":3.0,"ingredients":{"0":"Chicken","1":"Onion","2":"Vinegar","3":"Garlic Paste","4":"Soy Sauce"}}
         },
         "likes":"100k",
         "bio":"American chef, author, and TV personality, known for his travel and food show 'Anthony Bourdain: Parts Unknown'."
@@ -68,13 +68,13 @@
     },
     {
         "id":6,
-        "imgChef":"https://img.freepik.com/free-vector/coloured-chefdesign_1152-72.jpg?w=740&t=st=1682952294~exp=1682952894~hmac=b0212ba06f92218132fe34a7124a1c97a334b3af7fff519cacfb7b64c178911a",
-        "name":"LIKHON",
-        "experience":"2 years",
+        "imgChef":"https://img.freepik.com/free-vector/professional-chefs-cooking-culinary-chefs-hand-drawn-sketch-vector-illustration_460848-14929.jpg?w=740&t=st=1682955951~exp=1682956551~hmac=b670e5c9fd172fe7c9e8f33081e1fd4fa4a887c4136497d5d83576f6e0d47889",
+        "name":"Sharif",
+        "experience":"6+ years",
         "recipes":{
-            "first":{"name":"Steak","ingredients":{"0":"Lemon","1":"Steak","2":"Garlic","3":"Salt","4":"Olive oil"}},
-            "second":{"name":"Pizza","ingredients":{"0":"Pepperoni","1":"Cheese","2":"Tomato Sauce","3":"Salt","4":"Olive oil"}},
-            "third":{"name":"Momo ","ingredients":{"0":"Chicken","1":"Onion","2":"Vinegar","3":"Garlic Paste","4":"Soy Sauce"}}
+            "first":{"name":"Steak","method":"Grilling","rating":4.4,"ingredients":{"0":"Lemon","1":"Steak","2":"Garlic","3":"Salt","4":"Olive oil"}},
+            "second":{"name":"Pizza","method":"Baking","rating":3.4,"ingredients":{"0":"Pepperoni","1":"Cheese","2":"Tomato Sauce","3":"Salt","4":"Olive oil"}},
+            "third":{"name":"Momo ","method":"Steaming","rating":4.0,"ingredients":{"0":"Chicken","1":"Onion","2":"Vinegar","3":"Garlic Paste","4":"Soy Sauce"}}
         },
         "likes":"55k",
         "bio":"American chef and owner of The French Laundry and Per Se, both three-Michelin-starred restaurants in the US."
