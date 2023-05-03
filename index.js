@@ -14,6 +14,12 @@ app.get('/allData',(req,res)=>{
     res.send(chefData)
 })
 
+app.get('/allData/:id',(req,res)=>{
+    const id=req.params.id;
+    const selectedData=chefData.find(pb=>pb.id==id)
+    res.send(selectedData)
+})
+
 app.listen(port,()=>{
     console.log(`chef is running on port:${port}`)
 })
